@@ -1,0 +1,19 @@
+name: saha-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - scanpy
+  - squidpy
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scimap
+  - pip
+  - pip:
+      - maxfuse
