@@ -19,7 +19,7 @@ _See `data/zenodo_download.md` for instructions on retrieval._
 
 ## Related Tools
 
-- [`saha-maxfuse`](https://github.com/saha-project/saha-maxfuse): Multimodal spatial alignment pipeline
+- [`saha-maxfuse`](https://github.com/saha-project/saha-maxfuse): Multimodal spatial integration pipeline
 - [`saha-scimap`](https://github.com/saha-project/saha-scimap): Cell typing for spatial proteomics data
 
 ## Citation
