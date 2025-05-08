@@ -13,8 +13,7 @@ The **Spatial Atlas of Human Anatomy (SAHA)** is an open-science initiative to b
 
 ## Data Access
 
-All large datasets used in this study are publicly available via Zenodo:  
-[https://doi.org/doi_to_be_updated](https://doi.org/doi_to_be_updated)
+All large datasets used in this study are publicly available via Zenodo: [https://zenodo.org/communities/saha/](https://zenodo.org/communities/saha/) 
 
 _See `data/zenodo_download.md` for instructions on retrieval._
 
