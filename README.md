@@ -8,7 +8,7 @@ The **Spatial Atlas of Human Anatomy (SAHA)** is an open-science initiative to b
 - `data/` — Source data for figures (or scripts to download from Zenodo)
 - `scripts/` — Python/R scripts for processing and visualization
 - `figures/` — Output figures in `.svg` and `.pdf`
-- `methods/` — Notes on customized workflows (e.g., MaxFuse, scimap)
+- `methods/` — Notes on customized workflows (e.g., MaxFuse, SCIMAP)
 - `utils/` — Shared functions (e.g., plotting, statistics)
 
 ## Data Access
